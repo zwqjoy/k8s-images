@@ -1,0 +1,1 @@
+FROM gcr.io/ml-pipeline/google/pipelines/mysql:1.8.0
